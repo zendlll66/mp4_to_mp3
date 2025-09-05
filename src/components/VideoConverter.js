@@ -134,7 +134,7 @@ export default function VideoConverter() {
           </div>
           <div className="flex items-start gap-3">
             <span className="flex-shrink-0 w-6 h-6 bg-primary text-primary-foreground rounded-full flex items-center justify-center text-xs font-bold">2</span>
-            <p>คลิก "แปลงเป็น MP3" เพื่อเริ่มกระบวนการแปลง</p>
+            <p>คลิก &quot;แปลงเป็น MP3&quot; เพื่อเริ่มกระบวนการแปลง</p>
           </div>
           <div className="flex items-start gap-3">
             <span className="flex-shrink-0 w-6 h-6 bg-primary text-primary-foreground rounded-full flex items-center justify-center text-xs font-bold">3</span>
@@ -142,7 +142,7 @@ export default function VideoConverter() {
           </div>
           <div className="flex items-start gap-3">
             <span className="flex-shrink-0 w-6 h-6 bg-primary text-primary-foreground rounded-full flex items-center justify-center text-xs font-bold">4</span>
-            <p>คลิก "ดาวน์โหลด MP3" เพื่อบันทึกไฟล์เสียง</p>
+            <p>คลิก &quot;ดาวน์โหลด MP3&quot; เพื่อบันทึกไฟล์เสียง</p>
           </div>
         </CardContent>
       </Card>
